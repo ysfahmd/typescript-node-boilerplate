@@ -14,4 +14,4 @@ app.get('/where', (req: Request, res: Response) => {
   });
 });
 
-app.listen(1337, (): void => console.log('EnTrack server up and running!'));
+app.listen(1337, (): void => console.log('The server up and running!'));
